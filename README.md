@@ -8,7 +8,7 @@
 ---
 
 ## Requirements
-- [txAdmin](http://www.github.com/txadmin)
+- [txAdmin](https://github.com/tabarra/txAdmin)
 
 ## Build
 Recommended Latest Build
