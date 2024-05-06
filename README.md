@@ -4,20 +4,23 @@
 # Playtime Script - [DOWNLOAD LATEST RELEASE](https://github.com/techygamebar/tgb_playtime/releases/latest/download/tgb_playtime.zip)
 
 ### Playtime Script
-#### Allows Players to check their Playtime in server
+#### Allows Players to check their Playtime in Server
 ---
 
 ## Requirements
 - [txAdmin](https://github.com/tabarra/txAdmin)
 
 ## Build
-Recommended Latest Build
+Recommended Latest Build <br>
 Recommended Latest Version of txadmin
 
 ## Install
 copy the tgb_playtime folder in resources of the server.  
+<br>        start the resource in server.cfg.
  **IMPORTANT:** Please make sure that you have txadmin.
-                start the resource in server.cfg.
+        
+## Usage
+`/playtime` 
 
 ## Download
 Compiled binary material can be found at [releases](https://github.com/techygamebar/tgb_playtime/releases).
