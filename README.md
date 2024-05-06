@@ -18,7 +18,14 @@ Recommended Latest Version of txadmin
 copy the tgb_playtime folder in resources of the server.  
 <br>        start the resource in server.cfg.
  **IMPORTANT:** Please make sure that you have txadmin.
-        
+
+## To Do
+in server.lua,replace the txdata path according to you and your server profile if set.
+
+``local playerData = ReadFile(“/txData/default/data/playersDB.json”)``
+
+Change it to yours. ``/txData/default/data/playersDB.json``
+
 ## Usage
 `/playtime` 
 
