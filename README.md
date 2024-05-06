@@ -26,5 +26,5 @@ copy the tgb_playtime folder in resources of the server.
 Compiled binary material can be found at [releases](https://github.com/techygamebar/tgb_playtime/releases).
 
 ## License
-Majority of the source code is licensed under the [GNU GPL v3](LICENSE.txt) license.
+Majority of the source code is licensed under the [GNU GPL v3](LICENSE) license.
 Source content taken from other projects is tagged with the respective license(s) wherever found.
