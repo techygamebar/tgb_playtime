@@ -1,7 +1,7 @@
 [![GitHub Latest Release](https://img.shields.io/github/downloads/techygamebar/tgb_playtime/latest/total?label=latest-release&logo=GitHub)](https://github.com/techygamebar/tgb_playtime/archive/refs/tags/v1.0.zip)
 [![GitHub all Release](https://img.shields.io/github/downloads/techygamebar/tgb_playtime/total?label=all-releases&logo=GitHub)](https://github.com/techygamebar/tgb_playtime/releases)
 
-# Playtime Script - [DOWNLOAD LATEST RELEASE](https://github.com/techygamebar/tgb_playtime/releases/latest/download/tgb_playtime.zip)
+# Playtime Script - [DOWNLOAD LATEST RELEASE](https://github.com/techygamebar/tgb_playtime/archive/refs/tags/v1.0.zip)
 
 ### Playtime Script
 #### Allows Players to check their Playtime in Server
